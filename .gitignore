@@ -3,4 +3,3 @@ node_modules
 eslint.config.js
 package-lock.json
 postcss.config.js
-tailwind.config.js
